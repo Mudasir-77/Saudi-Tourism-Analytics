@@ -1,1 +1,2 @@
 # Saudi-Tourism-Analytics
+This project analyzes Saudi tourism and hospitality demand using Python, SQL, Power BI, and DAX. It tracks visitor trends, region performance, domestic vs inbound tourism, spending patterns, hotel occupancy, ADR, RevPAR, satisfaction, and cancellation rate. The project is designed for data analyst roles in Saudi Arabia and shows data cleaning, modeling, dashboard design, KPI development, and business insight writing.
